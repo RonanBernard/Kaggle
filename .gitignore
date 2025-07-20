@@ -1,0 +1,7 @@
+data/
+*.sqlite
+*.db
+*.csv
+*.parquet
+*.pickle
+*.pkl
